@@ -30,7 +30,7 @@ Fun Fact
 - Precision
 - Strategy under pressure
 
-<img align='right' src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZwYXp2NjZwYm9xdXlqM3psZGd4YXhnOHY1eWVoOGYwaGJidG82NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/robf96Ydll7Uz4vbQB/giphy.gif' width='200"'>
+<img align='right' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBpMmJ1eGt6ZDlhajN2N2k2cnE3cTlvMTl3ZHhmOGt0NHJyMmRyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QndkduQFaCwTmE14uy/giphy.gif' width='200"'>
 
 ## Skill Stack <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" width="30px">
 [![My Skills](https://skillicons.dev/icons?i=git,github,python,pytorch,sklearn,tensorflow,c,java,nodejs,figma&perline=2&theme=light)](https://skillicons.dev)
