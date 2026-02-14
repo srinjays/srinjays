@@ -26,7 +26,7 @@ I believe:
 - Speed + clarity beats perfection.
 
 Fun Fact
-I’m a fast bowling all-rounder, played for Karnataka, which explains why I like:
+- I’m a fast bowling all-rounder, played for Karnataka, which explains why I like:
 - High velocity execution
 - Precision
 - Strategy under pressure
