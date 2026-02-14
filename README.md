@@ -31,9 +31,7 @@ I’m a fast bowling all-rounder, played for Karnataka, which explains why I lik
 - High velocity execution
 - Precision
 - Strategy under pressure
-
-<img align='right' src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJoeDdwY2N2NnFwYndmZGtwcHV4Y2Fkc29mZ292OWRiNzh2dmgxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/robf96Ydll7Uz4vbQB/giphy.gif'>
-
+- 
 ## Skill Stack <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" width="30px">
 [![My Skills](https://skillicons.dev/icons?i=git,github,python,pytorch,sklearn,tensorflow,c,java,nodejs,figma&perline=2&theme=light)](https://skillicons.dev)
 ## GitHub Stats
