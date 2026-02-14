@@ -21,7 +21,7 @@ Currently building AI tools that:
 - Generate satellite designs using ML-based modeling.
   
 I believe:
-- AI is not a feature — it’s infrastructure.
+- AI is not a feature it’s an infrastructure.
 - Distribution matters as much as intelligence.
 - Speed + clarity beats perfection.
 
