@@ -3,7 +3,7 @@
 <img align='right' src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWkwNXY0MHhxdXltMTNoMmR2ZXU3eDN0b3psYms3ZGgzeGRsMzBsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1jJyoKURSBblwPOBXS/giphy.gif' width='200"'>
 
 
-I am Srinjay Singh 😃. I am from Bangalore, Karnatak and currently doing my B.Tech from Jain University, Bangalore 🏫. I love to explore and learn about new things.
+I am Srinjay Singh 😃. I am from Bangalore, Karnataka and currently doing my B.Tech from Jain University, Bangalore 🏫. I love to explore and learn about new things.
 
 ## Srinjay Singh 
 `eklektos`
