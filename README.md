@@ -9,7 +9,6 @@ I am Srinjay Singh 😃. I am from Bangalore, Karnataka and currently doing my B
 `eklektos`
 * CSE - Btech | 1st Year @ Jain University Bngalore
 * Multi-LLM Systems | Real-Time AI | Applied ML
-* Microsoft Student Learn Ambassador (MSP/MLSA).
 * Fast Bowling All-Rounder (yes, I build speed on and off the field)
 ## About Me  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d0/512.gif" width="30px">
 
@@ -30,7 +29,9 @@ Fun Fact
 - High velocity execution
 - Precision
 - Strategy under pressure
-  
+
+<img align='right' src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZwYXp2NjZwYm9xdXlqM3psZGd4YXhnOHY1eWVoOGYwaGJidG82NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/robf96Ydll7Uz4vbQB/giphy.gif' width='200"'>
+
 ## Skill Stack <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" width="30px">
 [![My Skills](https://skillicons.dev/icons?i=git,github,python,pytorch,sklearn,tensorflow,c,java,nodejs,figma&perline=2&theme=light)](https://skillicons.dev)
 ## GitHub Stats
