@@ -13,7 +13,6 @@ I am Srinjay Singh 😃. I am from Bangalore, Karnataka and currently doing my B
 * Fast Bowling All-Rounder (yes, I build speed on and off the field)
 ## About Me  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d0/512.gif" width="30px">
 
-Talk to me about:
 - I’m Srinjay, a developer obsessed with turning ideas into real systems.
 
 Currently building AI tools that:
