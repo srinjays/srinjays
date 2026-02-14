@@ -34,6 +34,7 @@ Fun Fact
 
 ## Skill Stack <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" width="30px">
 [![My Skills](https://skillicons.dev/icons?i=git,github,python,pytorch,sklearn,tensorflow,c,java,nodejs,figma&perline=2&theme=light)](https://skillicons.dev)
+
 ## GitHub Stats
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=srinjays&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
