@@ -8,7 +8,7 @@ I am Srinjay Singh 😃. I am from Bangalore, Karnataka and currently doing my B
 ## Srinjay Singh 
 `eklektos`
 * CSE - Btech | 1st Year @ Jain University Bngalore
-* Multi-LLM Systems | Real-Time AI | Applied ML
+* Building Multi-LLM Systems | Real-Time AI | Applied ML
 * Fast Bowling All-Rounder (yes, I build speed on and off the field)
 ## About Me  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d0/512.gif" width="30px">
 
