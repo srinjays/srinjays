@@ -9,7 +9,6 @@ I am Srinjay Singh 😃. I am from Bangalore, Karnataka and currently doing my B
 `eklektos`
 * CSE - Btech | 1st Year @ Jain University Bngalore
 * Building Multi-LLM Systems | Real-Time AI | Applied ML
-* Fast Bowling All-Rounder (yes, I build speed on and off the field)
 ## About Me  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d0/512.gif" width="30px">
 
 - I’m Srinjay, a developer obsessed with turning ideas into real systems.
@@ -24,11 +23,6 @@ I believe:
 - Distribution matters as much as intelligence.
 - Speed + clarity beats perfection.
 
-Fun Fact
-- I’m a fast bowling all-rounder, played for Karnataka, which explains why I like:
-- High velocity execution
-- Precision
-- Strategy under pressure
 
 <img align='right' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBpMmJ1eGt6ZDlhajN2N2k2cnE3cTlvMTl3ZHhmOGt0NHJyMmRyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QndkduQFaCwTmE14uy/giphy.gif' width='200"'>
 
